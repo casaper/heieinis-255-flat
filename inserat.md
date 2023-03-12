@@ -1,9 +1,7 @@
 ## [Heinrichstrasse 255 — next to Escher-Wyss-Platz and Schiffbau](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
-**When**: May 1st 2023
-
-!**Where**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6) 
-
+**When**: May 1st 2023  
+**Where**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6) 
 **Rent**: CHF 1200.-/ Month
 
 ### The vacant room
@@ -61,7 +59,7 @@ Kaspar (42) – speaks Swiss German and English, full-stack software engineer
 Vedran and Helen are a couple, and live in the same room.
 
 
-## Who were looking for
+## Who we're looking for
 
 You are loosely approximating our age span.
 
