@@ -1,7 +1,7 @@
 ## [Heinrichstrasse 255 — next to Escher-Wyss-Platz and Schiffbau](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
 **When**: May 1st 2023  
-**Where**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6) 
+**Where**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
 **Rent**: CHF 1200.-/ Month
 
 ### The vacant room
@@ -71,17 +71,26 @@ A requirement is, that you can converse all right with everyone – speak some E
 
 ### Your Room
 
-![your_room_1](pictures/your_room_1.jpg)
-![your_room_2](pictures/your_room_2.jpg)
+![Your room looking in](pictures/your_room_1.jpg)
+
+![Your room looking out](pictures/your_room_2.jpg)
+
+![Your walking closet](pictures/your_walk_in_closet_1.jpg)
 
 ### The Flat
 
-![balcony_1](pictures/balcony_1.jpg)
-![bathrooms_1_and_2](pictures/bathrooms_1_and_2.jpg)
-![entrance_stairs_1](pictures/entrance_stairs_1.jpg)
-![guest_room](pictures/guest_room.jpg)
-![laundry_and_extra_toilet](pictures/laundry_and_extra_toilet.jpg)
-![living_room_1](pictures/living_room_1.jpg)
-![living_room_entrance_1](pictures/living_room_entrance_1.jpg)
-![living_room_kitchen_1](pictures/living_room_kitchen_1.jpg)
-![your_walk_in_closet_1](pictures/your_walk_in_closet_1.jpg)
+![Living room from the entrance](pictures/living_room_entrance_1.jpg)
+
+![Kitchen and living room](pictures/living_room_kitchen_1.jpg)
+
+<!-- ![Entrance and stairs](pictures/entrance_stairs_1.jpg) -->
+
+![The living room again](pictures/living_room_1.jpg)
+
+![Balcony](pictures/balcony_1.jpg)
+
+![Bathrooms 1 & 2](pictures/bathrooms_1_and_2.jpg)
+
+![Guest Room](pictures/guest_room.jpg)
+
+![Laundry and extra toilet](pictures/laundry_and_extra_toilet.jpg)
