@@ -59,7 +59,7 @@ Kaspar (42) – speaks Swiss German and English, full-stack software engineer
 Vedran and Helen are a couple, and live in the same room.
 
 
-## Who we're looking for
+### Whom we're looking for
 
 You are loosely approximating our age span.
 
