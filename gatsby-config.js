@@ -15,7 +15,7 @@ module.exports = {
       summary: ``,
     },
     description: ``,
-    siteUrl: `https://casaper.github.io/wg-zimmer`,
+    siteUrl: `https://casaper.github.io/heiehinis-255-flat`,
     social: {
       // twitter: `kylemathews`,
     },

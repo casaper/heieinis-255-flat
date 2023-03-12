@@ -1,99 +1,96 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+## [Heinrichstrasse 255 — next to Escher-Wyss-Platz and Schiffbau](https://goo.gl/maps/5M6nC61x44gEojCz6)
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+**When**: May 1st 2023  
+**Where**: [Heinrichstrasse 255 – Google Maps](https://goo.gl/maps/5M6nC61x44gEojCz6)  
+**Rent**: CHF 1200.-/ Month
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+### The vacant room
 
-## 🚀 Quick start
+[Pictures](#your-room)
 
-1.  **Create a Gatsby site.**
+**Area**: 16 m² room  
+**Walk-in closet**: 4 m² 
 
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
+Bathroom shared with one roommate
 
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
+The shared flat room is unfurnished – individual pieces of furniture can be taken over from the previous tenant upon request (arrangement with the previous tenant).
 
-1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+### The entire flat
 
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+[Pictures](#the-flat)
 
-1.  **Open the source code and start editing!**
+- **Area**: 177 m²
+- 5½ rooms
+- Duplex (2 floors) | 4th and 5th floor | Entrance on the 5th floor
+- Very central location (Escher-Wyss-Platz, Hardbrücke), yet relatively quiet
+- Entire flat except kitchen and bathrooms has parquet floors with underfloor heating
+- Own washing machine and dryer
+- Spacious living room with kitchen and dishwasher
+- 2 bathrooms plus an extra toilet in the own laundry room
+- Guest room with bed etc.
+- Access to a huge roof terrace (shared with the whole building)
+- Storage room available
+- The building has a shared bicycle room
 
-    Your site is now running at `http://localhost:8000`!
+### General
 
-    Note: You'll also see a second link: `http://localhost:8000/___graphql`. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby Tutorial](https://www.gatsbyjs.com/docs/tutorial/part-4/#use-graphiql-to-explore-the-data-layer-and-write-graphql-queries).
+We have a cleaning lady who does the basic cleaning for us every 14 days. Obviously, this only provides the foundation, and if necessary, we also clean on our own.
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+We do also have a guest room which is available for general use and to host our occasional visitors.
 
-## 🚀 Quick start (Netlify)
+### Costs
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+- **Rent**: CHF 1200.- per month
+- **Cleaning lady**: approx. CHF 120.- per month
+- Internet CHF 259.- per year | Fibre optic 1 GB/1 GB | Wi-Fi infrastructure is available
+- Normal annual incidental costs such as electricity and the like (relatively small amounts once a year, within the usual range)
+- 2 month rent deposit
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
+Necessities like toilet paper and cleaning utensils we also buy with a shared budget, but the rest (food and such) is organized individually.
 
-## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a typical Gatsby project.
+### Who we are
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package.json
-    └── README.md
+Helen (33) – speaks Swiss German and English, and teaches teenagers.  
+Vedran (38) – speaks Croatian and English, full-stack software engineer  
+Kaspar (42) – speaks Swiss German and English, full-stack software engineer
 
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
+Vedran and Helen are a couple, and live in the same room.
 
-1.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-1.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+### Whom we're looking for
 
-1.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-browser/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+You are loosely approximating our age span.
 
-1.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/) for more detail).
+Your gender, origin, and general life choices are not relevant to us, as long as you're not some sort of extremist.
 
-1.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+A requirement is, that you can converse all right with everyone – speak some English.
 
-1.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-ssr/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+## Pictures
 
-1.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
+### Your Room
 
-1.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
+![Your room looking in](pictures/your_room_1.jpg)
 
-1.  **`README.md`**: A text file containing useful reference information about your project.
+![Your room looking out](pictures/your_room_2.jpg)
 
-## 🎓 Learning Gatsby
+![Your walking closet](pictures/your_walk_in_closet_1.jpg)
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
+### The Flat
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+![Living room from the entrance](pictures/living_room_entrance_1.jpg)
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+![Kitchen and living room](pictures/living_room_kitchen_1.jpg)
 
-## 💫 Deploy
+<!-- ![Entrance and stairs](pictures/entrance_stairs_1.jpg) -->
 
-[Build, Deploy, and Host On Netlify](https://netlify.com)
+![The living room again](pictures/living_room_1.jpg)
 
-The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
+![Balcony](pictures/balcony_1.jpg)
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+![Bathrooms 1 & 2](pictures/bathrooms_1_and_2.jpg)
+
+![Guest Room](pictures/guest_room.jpg)
+
+![Laundry and extra toilet](pictures/laundry_and_extra_toilet.jpg)
