@@ -38,6 +38,7 @@ The shared flat room is unfurnished – individual pieces of furniture can be ta
 - Access to a huge roof terrace (shared with the whole building)
 - Storage room available
 - The building has a shared bicycle room
+- The landlord does not allow dogs or cats
 
 ### General
 
